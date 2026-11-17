@@ -7,19 +7,6 @@ public class VitalisHealth : ModuleRules
 	public VitalisHealth(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = ModuleRules.PCHUsageMode.UseExplicitOrSharedPCHs;
-		
-		PublicIncludePaths.AddRange(
-			new string[] {
-				// ... add public include paths required here ...
-			}
-			);
-				
-		
-		PrivateIncludePaths.AddRange(
-			new string[] 
-			{
-			}
-			);
 			
 		
 		PublicDependencyModuleNames.AddRange(
