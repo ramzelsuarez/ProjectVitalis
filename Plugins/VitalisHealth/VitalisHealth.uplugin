@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "VitalisHealth",
+	"Description": "Simple, reusable health management system for characters, enemies, and destructible actors.",
+	"Category": "Other",
+	"CreatedBy": "Zel Suarez",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "VitalisHealth",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

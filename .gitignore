@@ -1,0 +1,20 @@
+# Unreal Engine generated files
+Binaries/
+Intermediate/
+DerivedDataCache/
+Saved/
+
+# IDE generated files
+.idea/
+.vs/
+.vscode/
+
+# Generated solution files
+*.sln
+*.slnx
+*.suo
+*.VC.db
+
+# Build outputs
+*.pdb
+*.obj
